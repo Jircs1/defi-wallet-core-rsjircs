@@ -65,7 +65,7 @@
     "uuid": "8.3.2"
   },
   "dependencies": {
-    "@cosmjs/stargate": "^0.27.1",
+    "@cosmjs/stargate": "^0.28.6",
     "@cosmjs/tendermint-rpc": "^0.27.1",
     "hardhat-deploy": "^0.10.5",
     "pkg": "^5.5.2",
