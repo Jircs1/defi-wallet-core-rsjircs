@@ -69,6 +69,6 @@
     "@cosmjs/tendermint-rpc": "^0.27.1",
     "hardhat-deploy": "^0.10.5",
     "pkg": "^5.5.2",
-    "ts-proto": "^1.106.1"
+    "ts-proto": "^1.167.8"
   }
 }
